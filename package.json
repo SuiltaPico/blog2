@@ -1,0 +1,18 @@
+{
+  "name": "blog2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "CC-BY-NC-4.0",
+  "description": "",
+  "devDependencies": {
+    "@vuepress/client": "^2.0.0-beta.51",
+    "vue": "^3.2.38",
+    "vuepress": "^2.0.0-beta.51"
+  }
+}
